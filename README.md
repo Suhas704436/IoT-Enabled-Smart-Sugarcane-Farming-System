@@ -266,31 +266,30 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
-
-**Suhas Reddy**
-
-B.E. Electronics and Communication Engineering
-
-M. S. Ramaiah Institute of Technology
-
 ---
 
-## 👥 Team Members
+## 👥 Project Team
 
-### Suhas Reddy & Sukruthi Reddy
-
-**Joint Responsibilities**
+### Suhas Reddy
 - Hardware Integration
 - STM32 Sensor Node Assembly & Wiring
 - ESP32 Gateway Integration
 - Sensor Interfacing
 - System Testing & Validation
+- Project Documentation
+
+### Sukruthi Reddy
+- Hardware Integration
+- STM32 Sensor Node Assembly & Wiring
+- ESP32 Gateway Integration
+- Sensor Interfacing
+- System Testing & Validation
+- Project Documentation
 
 ---
 
 ## ⭐ Support
 
-If you found this project interesting or useful, consider giving this repository a ⭐ on GitHub. Your support is greatly appreciated!
+If you found this project interesting or useful, consider giving this repository a ⭐ on GitHub.
 
 Thank you for visiting this project! 🌱
