@@ -278,7 +278,7 @@ M. S. Ramaiah Institute of Technology
 
 ## 👥 Team Members
 
-### Suhas Reddy & Teammate Name
+### Suhas Reddy & Sukruthi Reddy
 
 **Joint Responsibilities**
 - Hardware Integration
