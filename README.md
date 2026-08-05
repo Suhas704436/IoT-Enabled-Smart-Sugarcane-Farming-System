@@ -276,6 +276,19 @@ M. S. Ramaiah Institute of Technology
 
 ---
 
+## 👥 Team Members
+
+### Suhas Reddy & Teammate Name
+
+**Joint Responsibilities**
+- Hardware Integration
+- STM32 Sensor Node Assembly & Wiring
+- ESP32 Gateway Integration
+- Sensor Interfacing
+- System Testing & Validation
+
+---
+
 ## ⭐ Support
 
 If you found this project interesting or useful, consider giving this repository a ⭐ on GitHub. Your support is greatly appreciated!
