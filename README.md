@@ -282,6 +282,7 @@ This project is licensed under the MIT License.
 - ESP32 Gateway Integration
 - Sensor Interfacing
 - System Testing & Validation
+- Project Documentation
 
 ### Shubham Pandey
 - Web Dashboard Development
@@ -289,6 +290,7 @@ This project is licensed under the MIT License.
 - Backend Development
 - Frontend Development
 - Dashboard Testing
+- Project Documentation
 
 ### Anushka Gupta
 - Web Dashboard UI Design
@@ -296,6 +298,7 @@ This project is licensed under the MIT License.
 - Data Visualization
 - Software Testing
 - UI Improvements
+- Project Documentation
 
 ---
 
