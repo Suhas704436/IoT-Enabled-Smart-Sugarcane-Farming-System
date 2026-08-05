@@ -266,8 +266,6 @@ This project is licensed under the MIT License.
 
 ---
 
----
-
 ## 👥 Project Team
 
 ### Suhas Reddy
@@ -284,7 +282,20 @@ This project is licensed under the MIT License.
 - ESP32 Gateway Integration
 - Sensor Interfacing
 - System Testing & Validation
-- Project Documentation
+
+### Shubham Pandey
+- Web Dashboard Development
+- Cloud Database Integration
+- Backend Development
+- Frontend Development
+- Dashboard Testing
+
+### Anushka Gupta
+- Web Dashboard UI Design
+- Cloud Connectivity
+- Data Visualization
+- Software Testing
+- UI Improvements
 
 ---
 
