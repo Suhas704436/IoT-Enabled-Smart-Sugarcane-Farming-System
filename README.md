@@ -79,7 +79,7 @@ Documentation/
 3. Data is transmitted to the ESP32 gateway through LoRa.
 4. ESP32 displays the received information on the LCD.
 5. Sensor readings are uploaded to the cloud database.
-6. Farmers monitor the system through the Blynk mobile application.
+6. The Blynk mobile application allows users to monitor sensor readings and manually control irrigation devices.
 7. Irrigation devices are controlled through relay outputs.
 
 ---
