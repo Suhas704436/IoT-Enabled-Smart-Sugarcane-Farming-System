@@ -26,13 +26,14 @@ The system consists of **three STM32-based sensor nodes**, each equipped with en
 
 Each sensor node contains:
 
-- STM32 Nucleo F401RE
-- SX1278 LoRa Module (433 MHz)
+- STM32 Nucleo F401RE Development Board
+- SX1278 LoRa Transceiver (433 MHz)
 - DHT11 Temperature & Humidity Sensor
 - Capacitive Soil Moisture Sensor
-- Rain Sensor
-- AMS1117 Voltage Regulator
-- Li-ion Battery
+- Rain Sensor Module
+- AMS1117 3.3V Voltage Regulator (LoRa Power Supply)
+- LM2596 Adjustable DC-DC Buck Converter (Battery Voltage Regulation)
+- 2 × 3.7V Li-ion Rechargeable Batteries
 
 ---
 
