@@ -273,3 +273,11 @@ This project is licensed under the MIT License.
 B.E. Electronics and Communication Engineering
 
 M. S. Ramaiah Institute of Technology
+
+---
+
+## ⭐ Support
+
+If you found this project interesting or useful, consider giving this repository a ⭐ on GitHub. Your support is greatly appreciated!
+
+Thank you for visiting this project! 🌱
